@@ -1,20 +1,20 @@
 {
   "author": {
-    "name": "Michael Benford",
-    "email": "michael@michaelbenford.net"
+    "name": "IE Sydney (orig: Michael Benford)",
+    "email": "tim.burch@ie.com.au (orig: michael@michaelbenford.net)"
   },
   "name": "ng-tags-input",
   "prettyName": "ngTagsInput",
-  "version": "3.1.1",
+  "version": "3.1.3",
   "description": "Tags input directive for AngularJS",
   "license": "MIT",
-  "homepage": "http://mbenford.github.io/ngTagsInput",
+  "homepage": "https://github.com/ie/ngTagsInput",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mbenford/ngTagsInput.git"
+    "url": "https://github.com/ie/ngTagsInput.git"
   },
   "bugs": {
-    "url": "https://github.com/mbenford/ngTagsInput/issues"
+    "url": "https://github.com/ie/ngTagsInput/issues"
   },
   "keywords": [
     "angular",
